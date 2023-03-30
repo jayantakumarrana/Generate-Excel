@@ -1,4 +1,4 @@
-package in.pravakar;
+package com.jayit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
